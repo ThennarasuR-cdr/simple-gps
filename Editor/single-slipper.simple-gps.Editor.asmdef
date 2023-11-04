@@ -1,0 +1,16 @@
+{
+    "name": "single-slipper.simple-gps.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2a90e4c5fbf9e4a48b78b42dc14aa027"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
