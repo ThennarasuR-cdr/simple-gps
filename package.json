@@ -1,0 +1,8 @@
+{
+  "name": "com.single-slipper.simple-gps",
+  "version": "0.0.1",
+  "description": "Simple GPS system that uses waypoints to find the shortest path.",
+  "displayName": "SimpleGPS",
+  "type": "tool",
+  "unity": "2020.2"
+}
